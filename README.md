@@ -17,6 +17,6 @@
 - - - 
 ``` C
 printf("Welcome to PARTY SSU\n");
-printf("Enjoy your meal\n");
+printf("Enjoy your meal with friends\n");
 ```
 ---
